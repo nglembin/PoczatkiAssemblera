@@ -1,6 +1,6 @@
 📂 PoczatkiAssemblera – pierwsze kroki w asemblerze 16-bitowym (x86, DOS)
 
-🔧 Opis
+🔧 Opis:
 
 To repozytorium zawiera pięć prostych zadań napisanych w asemblerze x86 (tryb rzeczywisty, 16-bitowy), wykonywanych w środowisku DOS. Zadania powstały w ramach laboratoriów z przedmiotu WIA2 – Architektura Systemów Komputerowych.
 
@@ -33,7 +33,7 @@ Przerwania DOS (INT 21h, INT 10h)
 
 DOSBox (emulator) do testowania
 
-🎯 Cel projektu
+🎯 Cel projektu:
 
 Nauka podstaw obsługi przerwań w asemblerze
 
@@ -41,7 +41,7 @@ Praca z rejestrami i strukturą pamięci w trybie rzeczywistym
 
 Zrozumienie działania terminala tekstowego i sterowania kursorem
 
-🏁 Credits
+🏁 Credits:
 
 Projekt zrealizowany w ramach laboratoriów z przedmiotu WIA2
 
