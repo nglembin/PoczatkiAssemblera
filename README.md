@@ -8,19 +8,19 @@ Każdy program został napisany z myślą o pełnym zrozumieniu działania przer
 
 🧠 Co znajduje się w środku:
 
-🔹 zad1.asm
+🔹 zad1.asm - 
 Wyświetlenie dwóch znaków: 'A' oraz 'g' – wykorzystanie INT 21h, AH=02h.
 
-🔹 zad2.asm
+🔹 zad2.asm - 
 Wypisanie na ekranie imienia i nazwiska – z użyciem AH=09h i stringa zakończonego $.
 
-🔹 zad3.asm
+🔹 zad3.asm - 
 Ustawienie kursora w lewym górnym rogu i wypisanie tam litery 'A' – INT 10h do ustawienia kursora + INT 21h do wypisania znaku.
 
-🔹 zad4.asm
+🔹 zad4.asm - 
 Odczytanie znaku z klawiatury i wypisanie go na ekran – INT 21h, AH=01h, a następnie AH=02h.
 
-🔹 zad5.asm
+🔹 zad5.asm - 
 Wyświetlenie litery 'C' na środku ekranu (na pozycji 12, 40 – środek trybu tekstowego 80x25) – połączenie INT 10h (pozycja kursora) i INT 21h (drukowanie).
 
 🛠 Technologie i narzędzia:
