@@ -1,5 +1,7 @@
 📂 PoczatkiAssemblera – pierwsze kroki w asemblerze 16-bitowym (x86, DOS)
+
 🔧 Opis
+
 To repozytorium zawiera pięć prostych zadań napisanych w asemblerze x86 (tryb rzeczywisty, 16-bitowy), wykonywanych w środowisku DOS. Zadania powstały w ramach laboratoriów z przedmiotu WIA2 – Architektura Systemów Komputerowych.
 
 Każdy program został napisany z myślą o pełnym zrozumieniu działania przerwań, rejestrów i operacji na znakach w pamięci. Kod jest prosty, czytelny i przyjazny dla osób zaczynających przygodę z assemblerem.
