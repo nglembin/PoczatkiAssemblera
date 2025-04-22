@@ -48,4 +48,5 @@ Projekt zrealizowany w ramach laboratoriów z przedmiotu WIA2
 🧑‍🏫 Prowadzący:
 
 mgr inż. Michał Hyla
+
 Strona z zadaniami: https://mhyla.com/ex-wia2-2/
