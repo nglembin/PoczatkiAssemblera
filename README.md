@@ -4,4 +4,4 @@
 4. Napisz program, który odczyta znak, a następnie go wydrukuje - int 21h/AH=01h - proponuję przed wydrukowaniem odczytanego znaku wydrukować jeszcze np. spację
 5. Napisz program, który wyświetli pośrodku ekranu literę “C”
 
-zadanka ze strony mhyla.com / WIA2
+https://mhyla.com/ex-wia2-2/
